@@ -1,4 +1,5 @@
 # hello-world-github
 First repository
 
-Ceci est mon premier dépôt GitHub.
+Ceci est mon premier dÃ©pÃ´t GitHub.
+Mais pas le dernier.
